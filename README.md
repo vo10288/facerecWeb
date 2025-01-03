@@ -1,5 +1,7 @@
 # facerecWeb
-EXAMPLE HERE =>> https://chatgrats.esy.es/facerecCountdown
+EXAMPLE HERE =>> 
+https://chatgrats.esy.es/facerecCountdown
+https://chatgrats.esy.es/facerec3
 ======================================
 #Mac Apple Intel macOS Ventura v. 13.7.1
 ======================================
