@@ -1,8 +1,8 @@
 # facerecWeb
 
-=======================================================================
+======================================
 #Mac Apple Intel macOS Ventura v. 13.7.1
-===================================================
+======================================
 
 #INSTALL BREW
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -22,8 +22,9 @@ $npm install -g http-server
 #START LOCAL SERVER http://127.0.0.1:8080 http://192.168.x.x:8080
 
 $http-server
-========================================================================
+========================================
 # Linux o Microsoft Window with W.S.L.
+========================================
 
 #INSTALL NPM
 $sudo apt install npm
