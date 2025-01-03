@@ -41,7 +41,10 @@ $npm install -g http-server
 #START LOCAL SERVER http://127.0.0.1:8080 http://192.168.x.x:8080
 
 $http-server
+![SantaClausFacerecWeb2](https://github.com/user-attachments/assets/ed897f5a-240f-4172-b2c6-571006fb2b57)
 
 ![SantaClausFaceRecWeb](https://github.com/user-attachments/assets/dbc61ba2-8e08-4668-9d70-bf1f811b40f5)
+
+
 
 
